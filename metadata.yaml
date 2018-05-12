@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: 'Gallica number: Notice n° :  FRBNF32123902'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19233#Les-opinions-de-M.-J-r-me-Coignard--13-Recueillies-par-Jacques-Tournebroche
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2006-09-10'
 gutenberg_type: Text
